@@ -1,1 +1,1 @@
-console.log("Hi my name is John");
+y="Hi my name is John";
